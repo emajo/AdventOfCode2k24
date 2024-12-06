@@ -19,6 +19,14 @@ switch (day)
         Console.WriteLine(Day04.Part(true));
         Console.WriteLine(Day04.Part(false));
         break;
+    case "5":
+        Console.WriteLine(Day05.Part(true));
+        Console.WriteLine(Day05.Part(false));
+        break;
+    case "6":
+        Console.WriteLine(Day06.Part(true));
+        Console.WriteLine(Day06.Part(false));
+        break;
 
     default:
         Console.WriteLine("Default");
